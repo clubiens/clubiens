@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Calli Lubiens and I'm a student in Interactive Design and Technology with Sask Polytechnic. 
 
 <!--
 **clubiens/clubiens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
